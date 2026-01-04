@@ -1,84 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=header"/>
-
-<div align="center"> 
- <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=4500&pause=694&color=00A1FF&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&width=590&height=152&lines=Oi%2C+Sou+Fabricio;" alt="Typing SVG" /></a>
- <br>
- <img  height="180" src="https://media.tenor.com/YRzeUmYfWrQAAAAd/jim2.gif"  />
- <img  height="180" src=https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<br>
-<br>
+###
 
 <div align="center">
- <a href="https://beacons.ai/FabricioMitsuo" target="blank">
-<img width='90' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"" />
- 
-     
-          
-</div>      
- 
-<div align="center">
-
- 
-<h2>Contador de visitas</h2> 
-
- ![Visitor Count](https://profile-counter.glitch.me/FabricioMitsuo/count.svg)  
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-<br>
-
-
- 
-<div align="center">  
- 
-<a href="https://github.com/FabricioMitsuo">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabricioMitsuo&show_icons=true&count_private=true&hide_border=true&title_color=FFD3B6&icon_color=FFAAA5&text_color=FF8B94&bg_color=0d1117" alt="FabricioMitsuo github stats" />  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioMitsuo&layout=compact&hide_border=true&title_color=FFD3B6&text_color=FF8B94&bg_color=0d1117" />
-
-</div>
- 
-
-
--🌱student at **CO.DE SCHOOL FGVW ACADEMIA DE PROGAMAÇÃO**
-
--🌱Email: mitsuoft2025@gmail.com
-
--🌱I like to do projects with electronics and programming
-<!--
- https://www.reddit.com/r/learnmachinelearning/comments/1fg00my/10_github_repositories_to_master_computer_vision/?tl=pt-br&rdt=61716
--->
-
-<a href = "https://www.linkedin.com/in/FabricioMitsuo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
+###
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=FabricioMitsuo&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
+###
 
-<div align="center">  
- <h2 align="centro">💻⚡Tech stack⚡💻:</h2>
-  	<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,mysql,git" /></a>
-  </div>
+<h1 align="center">hey there 👋</h1>
 
-<div align="center">  
-<h2>:trophy: Certificações</h2>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-<img width='220' height='200' src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" />
-<img width='220' height='200' src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" />
-<br>
-
-<a href="https://www.cloudskillsboost.google/public_profiles/de092c48-0021-4fc8-8e36-2366cfd47dce/badges/2699561" target="blank">
-   <img width='200' height='200' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /> 
-</a>  
-          
-
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8E6CF&height=120&section=footer"/>                                       
-
+###
